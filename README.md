@@ -1,6 +1,6 @@
 ### Flutter app w/REST API
 Project made for university. It includes:
-- 4 screens (log in, students list, student details, update student & create student)
+- 5 screens (log in, students list, student details, update student & create student)
 - JWT Authentication
 - Use of REST architecture to do a complete CRUD
 	- GET: for get the entire student list
