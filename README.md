@@ -1,16 +1,11 @@
-# preparacion_parcial
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter app w/REST API
+Project made for university. It includes:
+- 4 screens (log in, students list, student details, update student & delete student)
+- Use of REST architecture to do a complete CRUD
+	- GET: for get the entire student list
+	- GET/id: for get all the details from a unique student
+	- POST/id: to create a new student with all its details
+	- UPDATE/id: to change the some or all details from a student except its "id", as "id" is intended to be used as locator in the DB
+	- DELETE/id: to delete an resource from the DB
+- Made with Azure DB (not available as it was a project for university)
+- Feel free to modify anything you want 💚
