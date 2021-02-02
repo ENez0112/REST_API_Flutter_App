@@ -6,7 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
 
 class ApiServices {
-  final String url = "https://appserviceenrique.azurewebsites.net/api/Students";
+  final String url = "use your own link";
 
   /*
     <<< GET FUNCTION >>>
