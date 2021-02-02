@@ -7,6 +7,6 @@ Project made for university. It includes:
 	- GET/id: for get all the details from a unique student
 	- POST/id: to create a new student with all its details
 	- UPDATE/id: to change some or all details from a student except its "id", as "id" is intended to be used as locator in the DB
-	- DELETE/id: to delete an resource from the DB
+	- DELETE/id: to delete a resource from the DB
 - Made with Azure DB (not available as it was a project for university)
 - Feel free to modify anything you want 💚
